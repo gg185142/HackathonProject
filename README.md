@@ -1,4 +1,4 @@
-# HackathonProject
+# easingRestaurantExperience
 easing restaurant  experience
 
 VoiceRecognition folder will contain the voice.py file which uses different packages like Request, GTTS, speechRecognizer etc based on this it interacts with the customer and notes his order .
